@@ -1,0 +1,4 @@
+mlxtend
+pandas
+numpy
+matplotlib
